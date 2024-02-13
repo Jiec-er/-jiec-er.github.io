@@ -2758,8 +2758,11 @@ kbd {
     width: 100%;
   }
 }
+.videos {
+  height: 25vh;
+}
 @media screen and (min-width: 600px) {
   .videos {
-    height: 20em;
+    height: 45vh;
   }
 }

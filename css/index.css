@@ -2759,10 +2759,21 @@ kbd {
   }
 }
 .videos {
-  height: 25vh;
+  height: 30vh;
 }
 @media screen and (min-width: 600px) {
   .videos {
     height: 45vh;
   }
+}
+@media screen and (max-width: 450px) {
+  .post-meta {
+    font-size: 0.7em;
+  }
+}
+.post-title {
+  font-family: "宋体";
+}
+.header-banner-info__subtitle {
+  font-family: "仿宋";
 }

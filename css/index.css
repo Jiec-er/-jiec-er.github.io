@@ -2774,3 +2774,6 @@ kbd {
 .post-title {
   font-family: "宋体";
 }
+.footer-inner {
+  padding: 0.5rem;
+}
